@@ -11,7 +11,8 @@ Rest leave at it is.
 
 ![postgres config](https://user-images.githubusercontent.com/57005090/113119620-f0ae0300-9210-11eb-981d-d9fbbe89395c.png)
 
+Next in ```login.username``` pass username to your salesforce org, in ```login.password``` pass password to org, in ```login.client_secret```
+and ```login.client_id``` pass client secret which you can find in connected app. Rest leave at it is.
+
 
 ```login.password```
-```login.client_secret```
-```login.client_id```
