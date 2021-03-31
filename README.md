@@ -8,7 +8,9 @@ This API allows to check standard salesforce objects Contact and Account from yo
 in ```spring.datasource.username``` and ```spring.datasource.password```
 enter your username and password to database, in ```spring.datasource.username``` and ```spring.datasource.password```.
 Rest leave at it is.
-Next in ```login.username``` pass username to your salesforce org, in ```login.password``` pass password to org
+
+![postgres config](https://user-images.githubusercontent.com/57005090/113119620-f0ae0300-9210-11eb-981d-d9fbbe89395c.png)
+
 
 ```login.password```
 ```login.client_secret```
