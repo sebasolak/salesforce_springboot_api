@@ -20,7 +20,7 @@ gmail email and password if you want api be able to send emails.
 
 ![gmail credentials](https://user-images.githubusercontent.com/57005090/113121710-34097100-9213-11eb-84c3-7882134b0e09.png)
 
-##Api map
+## Api map
 
 * You can get list of contacts (GET request):
 ```
